@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mustapha</h1>  
-<h3 align="center">A passionnat developer student at 42 Perpignan 🇫🇷</h3>  
+<h3 align="center">A passionate developer student at 42 Perpignan 🇫🇷</h3>  
   
 - 🔭 I’m currently working on **42 common core**  
   
