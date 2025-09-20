@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mustapha</h1>  
-<h3 align="center">A passionate developer student at 42 Perpignan 🇫🇷</h3>  
+<h3 align="center">Student at 42 Perpignan 🇫🇷</h3>  
   
 - 🔭 I’m currently working on **42 common core**  
   
@@ -11,8 +11,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Mkadri66](https://github.com/Mkadri66)  
   
 - 📫 How to reach me **mustapha.kadri66@gmail.com**  
-  
-- ⚡ Fun fact **"the football has changed"**  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
